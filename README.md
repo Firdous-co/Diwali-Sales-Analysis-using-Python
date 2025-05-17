@@ -70,7 +70,7 @@ The dataset (`diwali_sales.csv`) contains the following fields:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/diwali-sales-analysis.git
+git clone https://github.com/Firdous-co/diwali-sales-analysis.git
 cd diwali-sales-analysis
 ```
 
